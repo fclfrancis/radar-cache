@@ -1,0 +1,1 @@
+{"data":"2026-06-27","snapshots":[{"ts":"2026-06-27T16:08:42","ibov_spot":174400,"convergencias":[{"strike_win":173800,"score":3.47,"n_pilares":2,"pilares":["SPY","USO"],"direction":"BEAR","consensus":0.16,"has_divergence":true,"opt":"Put","vol_total":74579.0,"fin_total":20580786.000000004}]}]}
