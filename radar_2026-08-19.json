@@ -1,0 +1,1 @@
+{"data":"2026-08-19","snapshots":[{"ts":"2026-08-19T07:28:41","ibov_spot":169500,"convergencias":[{"strike_win":172000,"score":3.85,"n_pilares":2,"pilares":["EEM","PBR"],"direction":"BEAR","consensus":0.6,"has_divergence":true,"opt":"Call","vol_total":9788.0,"fin_total":87128.0}]}]}
