@@ -1,0 +1,1 @@
+{"data":"2026-09-20","snapshots":[{"ts":"2026-09-20T11:43:32","ibov_spot":100,"convergencias":[{"strike_win":100,"score":28.57,"n_pilares":4,"pilares":["EEM","PBR","SPY","USO"],"direction":"BULL","consensus":0.07,"has_divergence":true,"opt":"Call","vol_total":533754.0,"fin_total":113766112.0}]}]}
